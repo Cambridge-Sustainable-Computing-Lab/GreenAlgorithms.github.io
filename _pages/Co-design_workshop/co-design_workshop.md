@@ -4,6 +4,8 @@ permalink: /co-design_workshop/
 title: "Co-design workshops"
 excerpt: "How can we improve the design of the Green Algorithms calculator and other carbon reporting tools? "
 
+classes: wide
+
 header:
   overlay_image: assets/images/stripes_banner_1.png
   overlay_filter: linear-gradient(rgba(255, 255,255, 0), 20%, rgba(255, 255, 255, 1))
@@ -11,6 +13,15 @@ header:
   actions:
   - label: "Register for one of the workshops"
     url: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=RQSlSfq9eUut41R7TzmG6V_PnAJZo6ZGvcYHn13rkEVUM0RJOVUwU1gyNlA5UllQT01NTVdPN0ZVSC4u
+
+feature_row_1:
+- image_path: assets/images/chair-circle-7476556_1280.jpg
+  alt: "Group of people discussing."
+  title: "Who can participate?"
+  excerpt: "We are looking for input from a variety of people, including users of the Green Algorithms calculator and other carbon reporting tools, calculator designers, researchers and professionals that develop tools and methods for environmental assessments of digital technologies and services. There are no special requirements for participants, apart from an interest in the topic, a good understanding of English, and being at least 18 years old. <br> Further details can be found in the [Participant Information Sheet](/assets/resources/co-design-PIS.pdf)."
+  url: "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=RQSlSfq9eUut41R7TzmG6V_PnAJZo6ZGvcYHn13rkEVUM0RJOVUwU1gyNlA5UllQT01NTVdPN0ZVSC4u"
+  btn_label: "To register, please complete our short sign-up survey"
+  btn_class: "btn--primary"
 
 sidebar:
   nav: Co-design
@@ -27,10 +38,16 @@ We would like to share the outcomes of the workshops with the wider research com
 
 The workshops are part of a study we are running in collaboration with researchers from the University of Cambridge, Lancaster University, and Université Paris-Saclay. 
 
+<!-- {% include feature_row id="feature_row_1" type="left" %} -->
+
+
 ## Who can participate?
 
 We are looking for input from a variety of people, including users of the Green Algorithms calculator and other carbon reporting tools, calculator designers, researchers and professionals that develop tools and methods for environmental assessments of digital technologies and services. There are no special requirements for participants, apart from an interest in the topic, a good understanding of English, and being at least 18 years old.
 
-Further details can be found in the [Participant Information Sheet](assets/resources/co-design-PIS.pdf).
+Further details can be found in the [Participant Information Sheet](/assets/resources/co-design-PIS.pdf).
 
-To register, please complete [our short sign-up survey](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=RQSlSfq9eUut41R7TzmG6V_PnAJZo6ZGvcYHn13rkEVUM0RJOVUwU1gyNlA5UllQT01NTVdPN0ZVSC4u).
+__To register, please complete [our short sign-up survey](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=RQSlSfq9eUut41R7TzmG6V_PnAJZo6ZGvcYHn13rkEVUM0RJOVUwU1gyNlA5UllQT01NTVdPN0ZVSC4u).__
+
+
+{% include figure popup=true image_path="/assets/images/chair-circle-7476556_1280.jpg" alt="group of people discussing" %}
