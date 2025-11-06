@@ -4,6 +4,8 @@ main:
     description: The online calculator to estimate carbon footprints
   - title: "E-SCOUT"
     url: /E-SCOUT/
+  - title: "Co-design"
+    url: "/co-design_workshop/"
   - title: "GA4HPC"
     url: /GA4HPC/
   - title: "Resources"
@@ -32,6 +34,14 @@ GA4HPC:
     url: /GA4HPC/install
   - title: Edit code and contribute
     url: /GA4HPC/edit
+
+Co-design:
+  - title: Overview
+    url: /E-SCOUT/
+  - title: Participants Information Sheet
+    url: assets/resources/co-design-PIS.pdf
+  - title: Register
+    url: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=RQSlSfq9eUut41R7TzmG6V_PnAJZo6ZGvcYHn13rkEVUM0RJOVUwU1gyNlA5UllQT01NTVdPN0ZVSC4u
 
 # training:
 #   - title: Overview

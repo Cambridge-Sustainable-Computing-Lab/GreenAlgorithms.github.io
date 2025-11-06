@@ -64,20 +64,26 @@ gallery_logos:
     image_path: /assets/images/HDRuk_gallery.png
 ---
 
+__:mega: Do you want to have a say in what the next version of the Green Algorithms calculator will look like?__ We are running two online co-design workshops in December 2025 to hear your thoughts and ideas. More details and sign-up [here](/co-design_workshop/).
+{: .notice--info}
+
+__:mega: We have a Community of Practice around Environmentally Sustainable Computational Science!__ Join the [online forum](https://forum.escs-community.org/) for discussions around green computing, and subscribe to the [newsletter](https://zcmp.eu/oRye) where we send a monthly digest of the latest news and developments in the sustainable computing space.
+{: .notice--info}
+
 <!-- __Are you looking for the online calculator?__ It's been moved to [calculator.green-algorithms.org](http://calculator.green-algorithms.org)
 {: .notice--success} -->
 
 <!-- __:hourglass: This website is a work in progress, and we will keep adding content in the coming weeks/months!__ Comments/suggestions can be made [here](https://github.com/GreenAlgorithms/GreenAlgorithms.github.io/issues).
 {: .notice--warning} -->
 
-__:bust_in_silhouette: We are recruiting!__ Interested in joining the Green Algorithms Initiative? We have a postdoctoral position available, more details [here](http://www.lannelongue-group.org/join/).
-{: .notice--info}
+<!-- __:bust_in_silhouette: We are recruiting!__ Interested in joining the Green Algorithms Initiative? We have a postdoctoral position available, more details [here](http://www.lannelongue-group.org/join/).
+{: .notice--info} -->
 
-__:tada: The Green Algorithms project has won the [2024 Susannah Boddie Impact of the Year Award](https://www.hdruk.ac.uk/news/winners-announced-2024-hdr-uk-annual-prizes/){:target="_blank"} at the Health Data Research UK annual conference!__ “The panel applauded the work’s clear impact on policy in a short time frame. The panel were impressed by the direct and tangible environmental impacts of these efforts, and recognised the pioneering role of this collaborative effort in raising awareness and providing tools for carbon footprint estimation in computational research.”
-{: .notice--success}
+<!-- __:tada: The Green Algorithms project has won the [2024 Susannah Boddie Impact of the Year Award](https://www.hdruk.ac.uk/news/winners-announced-2024-hdr-uk-annual-prizes/){:target="_blank"} at the Health Data Research UK annual conference!__ “The panel applauded the work’s clear impact on policy in a short time frame. The panel were impressed by the direct and tangible environmental impacts of these efforts, and recognised the pioneering role of this collaborative effort in raising awareness and providing tools for carbon footprint estimation in computational research.”
+{: .notice--success} -->
 
-__:mega: We are starting a Community of Practice around Environmentally Sustainable Computational Science!__ Join the [online forum](https://forum.escs-community.org/) for discussions around green computing, and subscribe to the [newsletter](https://zcmp.eu/oRye) where we send a monthly digest of the latest news and developments in the sustainable computing space.
-{: .notice--info}
+<!-- __:mega: We are starting a Community of Practice around Environmentally Sustainable Computational Science!__ Interested in joining it or just seeing how this goes? __Just fill in [this form](https://forms.gle/pftpt2YEFsQqayut6).__
+{: .notice--info} -->
 
 The Green Algorithms project aims at promoting more environmentally sustainable computational science. It regroups calculators that researchers can use to estimate the carbon footprint of their projects, tips on how to be more environmentally friendly, training material, past talks etc.
 
