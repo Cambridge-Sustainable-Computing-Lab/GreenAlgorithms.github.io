@@ -21,6 +21,13 @@ blog_articles:
   btn_class: "btn--primary"
 
 feature_row_1:
+- image_path: assets/resources/EMBLtrainingcourse.jpeg
+  alt: "Sustainable computing in science: An introduction to the environmental impacts of computational research"
+  title: "An free online tutorial"
+  excerpt: "We developed a training course with EMBL-EBI to help researchers understand and reduce the environmental impact of their work."
+  url: "https://www.ebi.ac.uk/training/online/courses/sustainable-computing-in-science/"
+  btn_label: "Learn more"
+  btn_class: "btn--primary"
 - image_path: assets/resources/Comment_NRMP_16x9.jpg
   alt: "Carbon footprint estimation for computational research"
   title: "What tool to choose?"
@@ -28,17 +35,10 @@ feature_row_1:
   url: "assets/publications/2023_Comment_NRPM.pdf"
   btn_label: "Learn more"
   btn_class: "btn--primary"
-- image_path: assets/resources/EMBLEBIwebinar_16x9.jpg
-  alt: "The carbon footprint of computational biology, an EMBL-EBI training webinar."
-  title: "A training webinar"
-  excerpt: "We did a webinar with EMBL-EBI's training team, the recording is available with the slides!"
-  url: "https://www.ebi.ac.uk/training/events/environmental-impact-computational-biology/"
-  btn_label: "Learn more"
-  btn_class: "btn--primary"
 - image_path: assets/resources/TenSimpleRules_16x9.jpg
   alt: "Ten simple rules to make your computing more environmentally sustainable"
   title: "What can you do today?"
-  excerpt: "Here are 10 simple ways in which you can reduce the impacy of your work."
+  excerpt: "Here are 10 simple ways in which you can reduce the impact of your work."
   url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009324#sec001"
   btn_label: "Learn more"
   btn_class: "btn--primary"
