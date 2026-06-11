@@ -18,7 +18,7 @@ header:
     url: http://calculator.green-algorithms.org
 
 permalink: /
-title: "Green Algorithms"
+title: "Green Algorithms Initiative"
 excerpt: "Towards environmentally sustainable computational science"
 
 feature_row_1:
@@ -67,9 +67,6 @@ gallery_logos:
 __:mega: Do you want to have a say in what the next version of the Green Algorithms calculator will look like?__ We are running two online co-design workshops in December 2025 to hear your thoughts and ideas. More details and sign-up [here](/co-design_workshop/).
 {: .notice--info}
 
-__:mega: We have a Community of Practice around Environmentally Sustainable Computational Science!__ Join the [online forum](https://forum.escs-community.org/) for discussions around green computing, and subscribe to the [newsletter](https://zcmp.eu/oRye) where we send a monthly digest of the latest news and developments in the sustainable computing space.
-{: .notice--info}
-
 <!-- __Are you looking for the online calculator?__ It's been moved to [calculator.green-algorithms.org](http://calculator.green-algorithms.org)
 {: .notice--success} -->
 
@@ -85,7 +82,9 @@ __:mega: We have a Community of Practice around Environmentally Sustainable Comp
 <!-- __:mega: We are starting a Community of Practice around Environmentally Sustainable Computational Science!__ Interested in joining it or just seeing how this goes? __Just fill in [this form](https://forms.gle/pftpt2YEFsQqayut6).__
 {: .notice--info} -->
 
-The Green Algorithms project aims at promoting more environmentally sustainable computational science. It regroups calculators that researchers can use to estimate the carbon footprint of their projects, tips on how to be more environmentally friendly, training material, past talks etc.
+The Green Algorithms Initiative aims to promote more environmentally sustainable computational science. This page is a resource hub designed for researchers, including calculators and other tools to estimate the carbon footprint of research projects, studies to understand and improve tool design and effectiveness, and educational material and best practices.
+
+Want to get involved in our Community of Practice for Environmentally Sustainable Computational Science? Join the [online forum](https://forum.escs-community.org/) and connect with others working on green computing, and subscribe to the [newsletter](https://zcmp.eu/oRye). We send out a monthly digest of the latest news and developments on the forum and from the wider sustainable computing space.
 
 <!-- TODO add news -->
 
@@ -106,7 +105,7 @@ You can reach out by email at green.algorithms(at)gmail.com.
 
 For any technical issues with one of the tools, either email or open an issue on the corresponding [GitHub](https://github.com/GreenAlgorithms).
 
-## Supported by:
+## Supported by
 
 {% include gallery id="gallery_logos" type="left" layout="third" %}
 
