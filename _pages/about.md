@@ -15,7 +15,7 @@ sidebar:
     text: "&nbsp;"
 ---
 
-The Green Algorithms project is led by [Dr Loïc Lannelongue](https://www.lannelongue-group.org) and [Prof Michael Inouye](https://www.inouyelab.org/), from the University of Cambridge (UK).
+The Green Algorithms project is led by [Dr Loïc Lannelongue](https://www.lannelongue-group.org) and [Prof Michael Inouye](https://www.inouyelab.org/), from the University of Cambridge (UK). Dr Lannelongue also leads the [Cambridge Sustainable Computing Lab](https://cam-sustainablecomputing.org/).
 
 ## Acknowledgments: contributors and funders
 

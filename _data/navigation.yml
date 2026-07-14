@@ -4,10 +4,6 @@ main:
     description: The online calculator to estimate carbon footprints
   - title: "Dashboard"
     url: /dashboard/
-  - title: "E-SCOUT"
-    url: /E-SCOUT/
-  - title: "Co-design"
-    url: "/co-design_workshop/"
   - title: "GA4HPC"
     url: /GA4HPC/
   - title: "Resources"

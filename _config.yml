@@ -46,7 +46,8 @@ analytics:
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+# remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+theme: minimal-mistakes-jekyll
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show

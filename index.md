@@ -64,9 +64,6 @@ gallery_logos:
     image_path: /assets/images/HDRuk_gallery.png
 ---
 
-__:mega: Do you want to have a say in what the next version of the Green Algorithms calculator will look like?__ We are running two online co-design workshops in December 2025 to hear your thoughts and ideas. More details and sign-up [here](/co-design_workshop/).
-{: .notice--info}
-
 <!-- __Are you looking for the online calculator?__ It's been moved to [calculator.green-algorithms.org](http://calculator.green-algorithms.org)
 {: .notice--success} -->
 
@@ -82,7 +79,7 @@ __:mega: Do you want to have a say in what the next version of the Green Algorit
 <!-- __:mega: We are starting a Community of Practice around Environmentally Sustainable Computational Science!__ Interested in joining it or just seeing how this goes? __Just fill in [this form](https://forms.gle/pftpt2YEFsQqayut6).__
 {: .notice--info} -->
 
-The Green Algorithms Initiative aims to promote more environmentally sustainable computational science. This page is a resource hub designed for researchers, including calculators and other tools to estimate the carbon footprint of research projects, studies to understand and improve tool design and effectiveness, and educational material and best practices.
+The Green Algorithms Initiative aims to promote more environmentally sustainable computational science. This page is a resource hub designed for researchers, including calculators and other tools to estimate the carbon footprint of research projects, educational material, and best practices.
 
 Want to get involved in our Community of Practice for Environmentally Sustainable Computational Science? Join the [online forum](https://forum.escs-community.org/) and connect with others working on green computing, and subscribe to the [newsletter](https://zcmp.eu/oRye). We send out a monthly digest of the latest news and developments on the forum and from the wider sustainable computing space.
 
@@ -101,7 +98,7 @@ Want to get involved in our Community of Practice for Environmentally Sustainabl
 
 ## Get in touch
 
-You can reach out by email at green.algorithms(at)gmail.com.
+You can reach out by email at [green.algorithms@gmail.com](mailto:green.algorithms@gmail.com).
 
 For any technical issues with one of the tools, either email or open an issue on the corresponding [GitHub](https://github.com/GreenAlgorithms).
 
