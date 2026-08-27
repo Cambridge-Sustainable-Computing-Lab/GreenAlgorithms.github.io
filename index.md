@@ -23,24 +23,15 @@ feature_row_1:
 - image_path: /assets/images/GAapp_16x9.jpg
   alt: "Screenshot of the green algorithms calculator."
   title: "Calculator"
-  excerpt: "Easily estimate the carbon footprint of a computation."
-  url: "/GAapp-overview/"
-  btn_label: "Learn more"
-  btn_class: "btn--primary"
+  excerpt: 'Easily estimate the carbon footprint of a computation.<br><br><a href="/GAapp-overview/" class="btn btn--primary">Learn more</a> <a href="https://github.com/Cambridge-Sustainable-Computing-Lab/Green-Algorithms-calculator" class="btn btn--success">GitHub</a>'
 - image_path: /assets/images/dashboard/user.png
   alt: "Screenshot of the dashboard."
   title: "Dashboard"
-  excerpt: "Monitor the energy usage and carbon footprint of your HPC use."
-  url: /dashboard/
-  btn_label: "Learn more"
-  btn_class: "btn--primary"
+  excerpt: 'Monitor the energy usage and carbon footprint of your HPC use.<br><br><a href="/dashboard/" class="btn btn--primary">Learn more</a> <a href="https://github.com/Cambridge-Sustainable-Computing-Lab/Green-Algorithms-HPCdashboard" class="btn btn--success">GitHub</a>'
 - image_path: /assets/images/GA4HPC_16x9.jpg
   alt: "Screenshot of the green algorithms HPC tool."
   title: "GA4HPC"
-  excerpt: "Calculate the carbon footprint of all computations run on an HPC platform."
-  url: /GA4HPC/
-  btn_label: "Learn more"
-  btn_class: "btn--primary"
+  excerpt: 'Calculate the carbon footprint of all computations run on an HPC platform.<br><br><a href="/GA4HPC/" class="btn btn--primary">Learn more</a> <a href="https://github.com/Cambridge-Sustainable-Computing-Lab/GreenAlgorithms4HPC" class="btn btn--success">GitHub</a>'
 
 feature_training:
 - image_path: /assets/images/placeholder_16x9.jpg
@@ -82,7 +73,6 @@ gallery_logos:
 This page is a resource hub bringing together tools, documentation, and other resources to help digital researchers estimate the carbon footprint of their projects.</center>
 <br>
 
-
 <!-- TODO add news -->
 
 <!-- TODO do the google SEO -->
@@ -119,8 +109,8 @@ This work was also supported by Health Data Research UK, which is funded by the 
 
 This work was performed using resources provided by the Cambridge Service for Data Driven Discovery (CSD3) operated by the University of Cambridge Research Computing Service (www.csd3.cam.ac.uk), provided by Dell EMC and Intel using Tier-2 funding from the Engineering and Physical Sciences Research Council (capital grant EP/P020259/1), and DiRAC funding from the Science and Technology Facilities Council (www.dirac.ac.uk).
 
-*__More Credits__*<br>
-Project-specific credits can be found on their respective GitHub repositories (e.g. [calculator](https://github.com/GreenAlgorithms/green-algorithms-tool), [dashboard](https://github.com/Cambridge-Sustainable-Computing-Lab/Green-Algorithms-HPCdashboard), [GA4HPC](https://github.com/Cambridge-Sustainable-Computing-Lab/GreenAlgorithms4HPC)).
+__More Credits__<br>
+Project-specific credits can be found on their respective GitHub repositories (e.g. [calculator](https://github.com/Cambridge-Sustainable-Computing-Lab/Green-Algorithms-calculator), [dashboard](https://github.com/Cambridge-Sustainable-Computing-Lab/Green-Algorithms-HPCdashboard), [GA4HPC](https://github.com/Cambridge-Sustainable-Computing-Lab/GreenAlgorithms4HPC)).
 
 This website is powered by [Jekyll](https://jekyllrb.com/) & [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/).
 
