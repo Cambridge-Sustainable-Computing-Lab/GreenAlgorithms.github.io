@@ -5,8 +5,8 @@ title: "Calculator user guide"
 excerpt: "[![Generic badge](https://img.shields.io/badge/Version-v2.2-blue.svg)](https://shields.io/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/purple?icon=github)](https://github.com/Naereen/badges/)"
 
 header:
-  overlay_image: assets/images/stripes_banner_1.png
-  overlay_filter: linear-gradient(rgba(255, 255,255, 0), 20%, rgba(255, 255, 255, 1))
+  # overlay_image: assets/images/stripes_banner_1.png
+  # overlay_filter: linear-gradient(rgba(255, 255,255, 0), 20%, rgba(255, 255, 255, 1))
   text_color: rgb(80, 80, 80)
   actions:
   - label: "Green Algorithms Calculator"

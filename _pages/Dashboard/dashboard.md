@@ -10,15 +10,14 @@ toc: true
 toc_sticky: true
 
 header:
-  overlay_image: assets/images/stripes_banner_1.png
-  overlay_filter: linear-gradient(rgba(255, 255,255, 0), 20%, rgba(255, 255, 255, 1))
+  # overlay_image: assets/images/stripes_banner_1.png
+  # overlay_filter: linear-gradient(rgba(255, 255,255, 0), 20%, rgba(255, 255, 255, 1))
   text_color: rgb(80, 80, 80)
   actions:
   - label: "Check out on GitHub"
     url: https://github.com/Cambridge-Sustainable-Computing-Lab/Green-Algorithms-HPCdashboard
 ---
 
-# Green Algorithms Dashboard 
 ![Version: Gamma (pre-release)](https://img.shields.io/badge/version-Gamma_(pre--release)-orange)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/purple?icon=github)](https://github.com/Naereen/badges/)
 

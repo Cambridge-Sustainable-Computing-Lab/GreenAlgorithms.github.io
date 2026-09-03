@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Green Algorithms
+title: ""
 title_separator: "|"
 subtitle: ""
-email:
+email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   The Green Algorithms project promotes environmentally sustainable
   computational science through an online calculator, training material
@@ -24,14 +24,14 @@ description: >- # this means to ignore newlines until "baseurl:"
 # twitter_username: username
 # github_username: username
 
-masthead_title: "Home"
+masthead_title: "" # Left empty to only show logo
 masthead_subtitle: ""
 
 minimal_mistakes_skin: default
 
-search: true
+search: false
 lunr:
-  search_within_pages: true
+  search_within_pages: false
 
 locale: en-gb
 
@@ -56,6 +56,11 @@ breadcrumbs: true
 
 # TODO teaser image: https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 # teaser:
+
+logo: "/assets/images/88x88-white.png"
+
+navigation:
+  main: main
 
 include:
   - _pages
@@ -106,10 +111,10 @@ footer:
   links:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/GreenAlgorithms?tab=repositories"
+    #   url: "https://twitter.com/"  
+    # - label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/GreenAlgorithms?tab=repositories"
     - label: green.algorithms(at)gmail.com
       icon: "fas fa-envelope-open-text"
 
