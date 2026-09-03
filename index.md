@@ -86,6 +86,21 @@ This page is a resource hub bringing together tools, documentation, and other re
 
 {% include feature_row id="feature_training" %} -->
 
+## E-SCOUT
+
+Tools like the Green Algorithms online calculator have proven useful for researchers, research software engineers, and organisations to understand the environmental impacts of their work, but some important questions remain: To what extent does carbon tracking incentivise green computing practices? Or how can we make sure it does?
+
+The Environmentally Sustainable Computing User Trial of the Green Algorithms Initiative (E-SCOUT) aims to empirically evaluate the effectiveness of carbon reporting tools in reducing the environmental impacts of scientific computing. As part of the study, the effectiveness of different types of feedback will be compared for different user groups, leveraging a new open source dashboard for high-performance computing (HPC) built by the Cambridge Sustainable Computing Lab.
+
+Reflecting its user-centred approach, E-SCOUT will use co-design throughout all stages to ensure that the feedback interventions are tailored to the users’ needs, goals and constraints. The Lab are also planning to set up a steering group that brings together people with diverse perspectives for reflection and decision-making.
+
+If you work for a research performing organisation (RPO) that uses HPC and would be interested in getting involved, register your interest below. We also welcome interest from individuals for our steering group.
+
+<p>
+  <a href="https://cam-sustainablecomputing.org/projects/e-scout" class="btn btn--primary">Learn more</a>
+  <a href="https://zcvf-zcmp.maillist-manage.eu/ua/Optin?od=12ba7ed0a72a&zx=14adf96b94&tD=1230131c7ae86159&sD=1230131c7af91a97" class="btn btn--success">Register interest</a>
+</p>
+
 ## Resources
 
 Publications related to the Green Algorithms Initiatives and related resources from the developers
