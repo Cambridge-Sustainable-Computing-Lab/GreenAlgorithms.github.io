@@ -9,7 +9,7 @@ feature_row_1:
   alt: "Screenshot of the green algorithms calculator."
   title: "Online calculator"
   excerpt: 'Easily estimate the carbon footprint of a computation.<br><br><a href="/GAapp-overview/" class="btn btn--primary">Learn more</a> <a href="https://github.com/Cambridge-Sustainable-Computing-Lab/Green-Algorithms-calculator" class="btn btn--success">GitHub</a>'
-- image_path: assets/images/dashboard-user_16x9.png
+- image_path: /assets/images/dashboard-user_16x9.png
   alt: "Screenshot of the dashboard."
   title: "Dashboard"
   excerpt: 'Monitor the energy usage and carbon footprint of your HPC use.<br><br><a href="/dashboard/" class="btn btn--primary">Learn more</a> <a href="https://github.com/Cambridge-Sustainable-Computing-Lab/Green-Algorithms-HPCdashboard" class="btn btn--success">GitHub</a>'
@@ -22,9 +22,9 @@ gallery_logos:
   - url: "https://www.phpc.cam.ac.uk"
     image_path: /assets/images/cambridge-logo.png
   - url: "https://wellcome.org/"
-    image_path: assets/images/wellcome-logo.png
+    image_path: /assets/images/wellcome-logo.png
   - url: "https://cambridgebrc.nihr.ac.uk/"
-    image_path: assets/images/cambridge-nihr-brc-logo.png
+    image_path: /assets/images/cambridge-nihr-brc-logo.png
   - url: "https://www.hdruk.ac.uk"
     image_path: /assets/images/HDRuk_gallery.png
 ---
@@ -59,7 +59,7 @@ If you work for a research performing organisation (RPO) that uses HPC and would
 # About
 The Green Algorithms Initiative is led by [Dr Loïc Lannelongue](https://cam-sustainablecomputing.org/members/Loic-Lannelongue.html) and the [Cambridge Sustainable Computing Lab](https://cam-sustainablecomputing.org/) from the University of Cambridge (UK). [Navirah Kamal](https://cam-sustainablecomputing.org/members/Navirah-Kamal.html) is the Research Software Engineer developing and maintaining these tools and [Dr Christina Bremer](https://cam-sustainablecomputing.org/members/Christina-Bremer.html) leads the E-SCOUT study.
 
-{% include figure popup=true image_path="assets/images/CSCL-logo_small.png" %}
+{% include figure popup=true image_path="/assets/images/CSCL-logo_small.png" %}
 
 ## Other Contributors
 - Past and current [members](https://cam-sustainablecomputing.org/team/) of the Cambridge Sustainable Computing Lab.
