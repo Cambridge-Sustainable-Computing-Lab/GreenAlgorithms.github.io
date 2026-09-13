@@ -57,7 +57,7 @@ If you work for a research performing organisation (RPO) that uses HPC and would
 </div>
 
 ## <i class="fa-solid fa-circle-info"></i> About
-The Green Algorithms Initiative is led by [Dr Loïc Lannelongue](https://cam-sustainablecomputing.org/members/Loic-Lannelongue.html) and the [Cambridge Sustainable Computing Lab](https://cam-sustainablecomputing.org/) from the University of Cambridge (UK). [Navirah Kamal](https://cam-sustainablecomputing.org/members/Navirah-Kamal.html) is the Research Software Engineer developing and maintaining these tools and [Dr Christina Bremer](https://cam-sustainablecomputing.org/members/Christina-Bremer.html) leads the E-SCOUT study.
+The Green Algorithms Initiative is a project of the [Cambridge Sustainable Computing Lab](https://cam-sustainablecomputing.org/) led by [Dr Loïc Lannelongue](https://cam-sustainablecomputing.org/members/Loic-Lannelongue.html) from the University of Cambridge (UK). [Prof Michael Inouye](https://www.inouyelab.org) has been involved from the start. [Navirah Kamal](https://cam-sustainablecomputing.org/members/Navirah-Kamal.html) is the Research Software Engineer developing and maintaining these tools and [Dr Christina Bremer](https://cam-sustainablecomputing.org/members/Christina-Bremer.html) leads the E-SCOUT study.
 
 <a href="{{ '/assets/images/CSCL-logo_small.png' | relative_url }}">
   <img src="{{ '/assets/images/CSCL-logo_small.png' | relative_url }}" alt="CSCL logo" style="max-width: 350px; width: 100%; height: auto;">
