@@ -33,7 +33,7 @@ gallery_logos:
     image_path: /assets/images/HDRuk_gallery.png
 ---
 
-<img src="{{ '/assets/images/GA_primary_logo.png' | relative_url }}" alt="Green Algorithms Initiative logo" style="display: block; margin: 1rem auto 0; max-width: 500px; width: 100%; height: auto;">
+<img src="{{ '/assets/images/GA_primary_logo.png' | relative_url }}" alt="Green Algorithms Initiative logo" style="display: block; margin: 2rem auto 0; max-width: 500px; width: 100%; height: auto;">
 
 The Green Algorithms Initiative aims to promote more environmentally sustainable computational science. <br>
 This page is a resource hub bringing together tools, documentation, and other resources to help digital researchers estimate the carbon footprint of their projects.
