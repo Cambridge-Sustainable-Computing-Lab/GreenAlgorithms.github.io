@@ -1,23 +1,43 @@
 <style>
 .masthead,
-.masthead__inner-wrap,
-.greedy-nav {
+.masthead__inner-wrap {
   background-color: #3d4d24;
 }
 
-.masthead__inner-wrap a,
-.masthead__inner-wrap .site-title,
-.greedy-nav a,
-.greedy-nav button {
+.masthead {
+  position: sticky;
+  top: 0;
+}
+
+.page__hero--overlay .page__title,
+.page__hero--overlay .page__meta,
+.page__hero--overlay .comment__date,
+.page__hero--overlay .page__lead {
+  color: #3d4144;
+  text-shadow: none;
+}
+
+.page__hero--overlay .btn--light-outline {
+  background-color: #3d4d24;
+  color: #fff;
+  border-color: #3d4d24;
+  text-shadow: none;
+}
+
+.page__hero--overlay .btn--light-outline:visited {
+  background-color: #3d4d24;
   color: #fff;
 }
 
-.greedy-nav .visible-links a:before {
-  background: #fff;
+.page__hero--overlay .btn--light-outline:hover {
+  background-color: #98BF5A;
+  border-color: #98BF5A;
+  color: #fff;
 }
 
-.greedy-nav .hidden-links a {
-  color: #3d4d24;
+.masthead__inner-wrap a,
+.masthead__inner-wrap .site-title {
+  color: #fff;
 }
 
 .page__footer {
@@ -30,10 +50,6 @@
 .page__footer-follow .social-icons i {
   color: #fff;
 }
-
-/*h1, h2, h3 {*/
-/*  color: #3d4d24;*/
-/*}*/
 
 .btn--success,
 .btn--success:visited,

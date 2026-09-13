@@ -12,7 +12,7 @@ feature_row_1:
 - image_path: /assets/images/GAapp_16x9.jpg
   alt: "Screenshot of the green algorithms calculator."
   title: "Online calculator"
-  excerpt: 'Easily estimate the carbon footprint of a computation.<br><br><a href="/GAapp-overview/" class="btn btn--primary">Learn more</a> <a href="https://github.com/Cambridge-Sustainable-Computing-Lab/Green-Algorithms-calculator" class="btn btn--success">GitHub</a>'
+  excerpt: 'Easily estimate the carbon footprint of a computation.<br><br><a href="https://calculator.green-algorithms.org" class="btn btn--primary">Calculator</a> <a href="https://github.com/Cambridge-Sustainable-Computing-Lab/Green-Algorithms-calculator" class="btn btn--success">GitHub</a>'
 - image_path: /assets/images/dashboard-user_16x9.png
   alt: "Screenshot of the dashboard."
   title: "Dashboard"

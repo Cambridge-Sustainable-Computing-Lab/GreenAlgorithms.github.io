@@ -1,10 +1,18 @@
 # main links
-main:
-  - title: "The different tools"
-    url: /#-the-different-tools
-  - title: "E-SCOUT"
-    url: /#-e-scout-do-carbon-calculators-incentivise-sustainable-behaviours
-  - title: "How to cite this work"
-    url: /#how-to-cite-this-work-and-related-publications
-  - title: "About"
-    url: /#-about
+#main:
+#  - title: "The different tools"
+#    url: /#-the-different-tools
+#  - title: "E-SCOUT"
+#    url: /#-e-scout-do-carbon-calculators-incentivise-sustainable-behaviours
+#  - title: "How to cite this work"
+#    url: /#how-to-cite-this-work-and-related-publications
+#  - title: "About"
+#    url: /#-about
+
+GA4HPC:
+  - title: Overview
+    url: /GA4HPC/
+  - title: Install
+    url: /GA4HPC/install
+  - title: Edit code and contribute
+    url: /GA4HPC/edit
