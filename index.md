@@ -47,8 +47,8 @@ Reflecting its user-centred approach, E-SCOUT will use co-design throughout all 
 If you work for a research performing organisation (RPO) that uses HPC and would be interested in getting involved, register your interest below. We also welcome interest from individuals for our steering group. 
 
 <p>
-  <a href="https://cam-sustainablecomputing.org/projects/e-scout" class="btn btn--primary">Learn more</a>
-  <a href="https://zcvf-zcmp.maillist-manage.eu/ua/Optin?od=12ba7ed0a72a&zx=14adf96b94&tD=1230131c7ae86159&sD=1230131c7af91a97" class="btn btn--success">Register interest</a>
+  <a href="https://cam-sustainablecomputing.org/projects/e-scout" class="btn btn--primary" style="color: #fff;">Learn more</a>
+  <a href="https://zcvf-zcmp.maillist-manage.eu/ua/Optin?od=12ba7ed0a72a&zx=14adf96b94&tD=1230131c7ae86159&sD=1230131c7af91a97" class="btn btn--success" style="color: #fff;">Register interest</a>
 </p>
 {% endcapture %}
 
