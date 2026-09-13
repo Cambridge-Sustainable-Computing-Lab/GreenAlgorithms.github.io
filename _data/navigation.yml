@@ -1,4 +1,10 @@
 # main links
-#main:
-#  - title: "Quick-Start Guide"
-#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+main:
+  - title: "The different tools"
+    url: /#-the-different-tools
+  - title: "E-SCOUT"
+    url: /#-e-scout-do-carbon-calculators-incentivise-sustainable-behaviours
+  - title: "How to cite this work"
+    url: /#how-to-cite-this-work-and-related-publications
+  - title: "About"
+    url: /#-about

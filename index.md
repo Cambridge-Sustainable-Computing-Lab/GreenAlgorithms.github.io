@@ -33,10 +33,10 @@ gallery_logos:
     image_path: /assets/images/HDRuk_gallery.png
 ---
 
-<img src="{{ '/assets/images/GA_primary_logo.png' | relative_url }}" alt="Green Algorithms Initiative logo" style="display: block; margin: 2rem auto 0; max-width: 500px; width: 100%; height: auto;">
+<img src="{{ '/assets/images/GA_primary_logo.png' | relative_url }}" alt="Green Algorithms Initiative logo" style="display: block; margin: 2.5rem auto 2.5rem; max-width: 500px; width: 100%; height: auto;">
 
 The Green Algorithms Initiative aims to promote more environmentally sustainable computational science. <br>
-This page is a resource hub bringing together tools, documentation, and other resources to help digital researchers estimate the carbon footprint of their projects.
+This page is a resource hub bringing together tools, documentation, and other resources to help digital researchers estimate the carbon footprint of their projects. For more related work, check out the [Cambridge Sustainable Computing Lab](https://cam-sustainablecomputing.org/).
 {: .text-center}
 
 ## <i class="fa-solid fa-screwdriver-wrench"></i> The different tools 
@@ -54,7 +54,7 @@ If you work for a research performing organisation (RPO) that uses HPC and would
 
 <p>
   <a href="https://cam-sustainablecomputing.org/projects/e-scout" class="btn btn--primary" style="color: #fff;">Learn more</a>
-  <a href="https://zcvf-zcmp.maillist-manage.eu/ua/Optin?od=12ba7ed0a72a&zx=14adf96b94&tD=1230131c7ae86159&sD=1230131c7af91a97" class="btn btn--success" style="color: #fff;">Register interest</a>
+  <a href="https://zcvf-zcmp.maillist-manage.eu/ua/Optin?od=12ba7ed0a72a&zx=14adf96b94&tD=1230131c7ae86159&sD=1230131c7af91a97" class="btn btn--success">Register interest</a>
 </p>
 {% endcapture %}
 
@@ -62,11 +62,23 @@ If you work for a research performing organisation (RPO) that uses HPC and would
   {{ notice-text | markdownify }}
 </div>
 
+## How to cite this work and related publications 
+
+If you are using one of these tools, please cite:
+
+- Lannelongue, Loïc, Jason Grealey, and Michael Inouye. 2021. __‘Green Algorithms: Quantifying the Carbon Footprint of Computation’__. Advanced Science 8 (12): 2100707. [10.1002/advs.202100707](https://doi.org/10.1002/advs.202100707).
+
+And you may also find these publications interesting (on how to use different carbon trackers, or examples of applications):
+- Lannelongue, Loïc, and Michael Inouye. 2023. __‘Carbon Footprint Estimation for Computational Research’__. Nature Reviews Methods Primers 3 (1): 1. [10.1038/s43586-023-00202-5](https://doi.org/10.1038/s43586-023-00202-5).
+- Grealey, Jason, Loïc Lannelongue, Woei-Yuh Saw, et al. 2022. __‘The Carbon Footprint of Bioinformatics’__. Molecular Biology and Evolution, February 10, msac034. [10.1093/molbev/msac034](https://doi.org/10.1093/molbev/msac034).
+- Souter, Nicholas E., Chris Racey, Nikhil Bhagwat, et al. 2025. __‘Comparing the Carbon Footprint of fMRI Data Processing and Analysis Approaches’__. Imaging Neuroscience 3 (June): IMAG.a.36. [10.1162/IMAG.a.36](https://doi.org/10.1162/IMAG.a.36).
+
+
 ## <i class="fa-solid fa-circle-info"></i> About
 The Green Algorithms Initiative is a project of the [Cambridge Sustainable Computing Lab](https://cam-sustainablecomputing.org/) led by [Dr Loïc Lannelongue](https://cam-sustainablecomputing.org/members/Loic-Lannelongue.html) from the University of Cambridge (UK). [Prof Michael Inouye](https://www.inouyelab.org) has been involved from the start. [Navirah Kamal](https://cam-sustainablecomputing.org/members/Navirah-Kamal.html) is the Research Software Engineer developing and maintaining these tools and [Dr Christina Bremer](https://cam-sustainablecomputing.org/members/Christina-Bremer.html) leads the E-SCOUT study.
 
-<a href="{{ '/assets/images/CSCL-logo_small.png' | relative_url }}">
-  <img src="{{ '/assets/images/CSCL-logo_small.png' | relative_url }}" alt="CSCL logo" style="max-width: 350px; width: 100%; height: auto;">
+<a href="{{ '/assets/images/CSCL-logo_small.png' | relative_url }}" style="display: block; text-align: center;">
+  <img src="{{ '/assets/images/CSCL-logo_small.png' | relative_url }}" alt="CSCL logo" style="max-width: 400px; width: 100%; height: auto;">
 </a>
 
 ### Other Contributors
@@ -128,8 +140,3 @@ This work was supported by funding from the Wellcome Trust, NetDRIVE and NERC. I
   }
 }
 </style>
-
-### More Credits
-Project-specific credits can be found on their respective GitHub repositories.
-
-This website is powered by [Jekyll](https://jekyllrb.com/) & [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/).
