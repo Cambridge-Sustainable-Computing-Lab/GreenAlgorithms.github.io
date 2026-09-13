@@ -2,25 +2,18 @@
 permalink: /dashboard/
 
 title: "Green Algorithms Dashboard"
-excerpt: "Enabling users to monitor the energy usage and carbon footprint of their HPC use."
-
-
+excerpt: "Enabling users to monitor the energy usage and carbon footprint of their HPC use. <br> ![Version: Gamma (pre-release)](https://img.shields.io/badge/version-Gamma_(pre--release)-orange)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/purple?icon=github)](https://github.com/Naereen/badges/)"
 
 toc: true
 toc_sticky: true
-
+ 
 header:
-  overlay_image: assets/images/stripes_banner_1.png
-  overlay_filter: linear-gradient(rgba(255, 255,255, 0), 20%, rgba(255, 255, 255, 1))
-  text_color: rgb(80, 80, 80)
+  overlay_image: assets/images/white_banner.png
   actions:
   - label: "Check out on GitHub"
     url: https://github.com/Cambridge-Sustainable-Computing-Lab/Green-Algorithms-HPCdashboard
 ---
-
-# Green Algorithms Dashboard 
-![Version: Gamma (pre-release)](https://img.shields.io/badge/version-Gamma_(pre--release)-orange)
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/purple?icon=github)](https://github.com/Naereen/badges/)
 
 The Green Algorithms Dashboard helps to make visible the environmental impacts of high performance computing (HPC) workloads. By connecting to workload managers such as SLURM, the dashboard automatically captures job-level information and translates it into meaningful insights into energy use, carbon emissions, and more. Users can see how their work contributes to overall resource consumption and emissions, whether at the level of individual users or across teams and institutions.
 

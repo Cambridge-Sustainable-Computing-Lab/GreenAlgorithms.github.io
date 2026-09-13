@@ -1,33 +1,13 @@
-main:
-  - title: "Calculator"
-    url: /GAapp-overview/
-    description: The online calculator to estimate carbon footprints
-  - title: "Dashboard"
-    url: /dashboard/
-  - title: "E-SCOUT"
-    url: /E-SCOUT/
-  - title: "Co-design"
-    url: "/co-design_workshop/"
-  - title: "GA4HPC"
-    url: /GA4HPC/
-  - title: "Resources"
-    url: /resources/
-  - title: "Publications"
-    url: /publications/
-  - title: "Talks"
-    url: /talks/
-  - title: "About"
-    url: /about/
-  # - title: "Join us"
-  #   url: http://www.lannelongue-group.org/join/
-
-# GAapp:
-#   - title: Overview
-#     url: /GAapp-overview/
-#   - title: Tutorials
-#     children:
-#       - title: "[FR] Projet IA a priori"
-#         url: /GAapp/Tutorials/predire_impact_projet_IA_FR/
+# main links
+#main:
+#  - title: "The different tools"
+#    url: /#-the-different-tools
+#  - title: "E-SCOUT"
+#    url: /#-e-scout-do-carbon-calculators-incentivise-sustainable-behaviours
+#  - title: "How to cite this work"
+#    url: /#how-to-cite-this-work-and-related-publications
+#  - title: "About"
+#    url: /#-about
 
 GA4HPC:
   - title: Overview
@@ -36,29 +16,3 @@ GA4HPC:
     url: /GA4HPC/install
   - title: Edit code and contribute
     url: /GA4HPC/edit
-
-Co-design:
-  - title: Overview
-    url: /E-SCOUT/
-  - title: Participants Information Sheet
-    url: assets/resources/co-design-PIS.pdf
-  - title: Register
-    url: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=RQSlSfq9eUut41R7TzmG6V_PnAJZo6ZGvcYHn13rkEVUM0RJOVUwU1gyNlA5UllQT01NTVdPN0ZVSC4u
-
-# training:
-#   - title: Overview
-#     url: /training/
-#   - title: Ten Simple Rules
-#     url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009324
-#   - title: "Recordings"
-#     children:
-#       - title: "EMBL-EBI webinar"
-#         url: https://www.ebi.ac.uk/training/events/environmental-impact-computational-biology/
-
-talks:
-  - title: "To jump straight to the latest recordings and slides:"
-    children:
-    - title: "- To understand the impact of bioinformatics (recording)"
-      url: https://www.ebi.ac.uk/training/events/environmental-impact-computational-biology/
-    - title: "- Latest slides on the impact of AI"
-      url: https://drive.google.com/file/d/15KP3gxyuu23MW6WaNAW867Ti4RBBZClP/view?usp=share_link

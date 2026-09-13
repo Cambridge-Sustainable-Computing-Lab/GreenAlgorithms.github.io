@@ -1,26 +1,108 @@
-<!-- start custom head snippets -->
-
-<!-- insert favicons. use https://realfavicongenerator.net/ -->
-
-<!-- end custom head snippets -->
-
-<!-- https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/_includes/head/custom.html -->
-
 <style>
-  {% if page.header.text_color %}
-    .page__hero--overlay .page__title,
-    .page__hero--overlay .page__meta,
-    .page__hero--overlay .page__lead,
-    .page__hero--overlay .btn {
-      color: {{page.header.text_color}} !important;
-      text-shadow: none;
-    }
+.masthead,
+.masthead__inner-wrap,
+.greedy-nav {
+  background-color: #3d4d24;
+}
 
-    .page__hero--overlay .btn--light-outline {
-      border-top-color: {{page.header.text_color}} !important;
-      border-bottom-color: {{page.header.text_color}} !important;
-      border-left-color: {{page.header.text_color}} !important;
-      border-right-color: {{page.header.text_color}} !important;
-    }
-  {% endif %}
+.masthead {
+  position: sticky;
+  top: 0;
+}
+
+.page__hero--overlay .page__title,
+.page__hero--overlay .page__meta,
+.page__hero--overlay .comment__date,
+.page__hero--overlay .page__lead {
+  color: #3d4144;
+  text-shadow: none;
+}
+
+.page__hero--overlay .btn--light-outline {
+  background-color: #3d4d24;
+  color: #fff;
+  border-color: #3d4d24;
+  text-shadow: none;
+}
+
+.page__hero--overlay .btn--light-outline:visited {
+  background-color: #3d4d24;
+  color: #fff;
+}
+
+.page__hero--overlay .btn--light-outline:hover {
+  background-color: #98BF5A;
+  border-color: #98BF5A;
+  color: #fff;
+}
+
+.masthead__inner-wrap a,
+.masthead__inner-wrap .site-title {
+  color: #fff;
+}
+
+.masthead__inner-wrap .site-title:hover {
+  color: #C1F272;
+}
+
+.page__footer {
+  background-color: #3d4d24;
+}
+
+.page__footer-copyright,
+.page__footer a,
+.page__footer-follow .social-icons a,
+.page__footer-follow .social-icons i {
+  color: #fff;
+}
+
+.btn--success,
+.btn--success:visited,
+.btn.btn--success,
+.btn.btn--success:visited {
+  background-color: #C1F272;
+  color: #3d4d24;
+}
+
+.btn--success:hover,
+.btn.btn--success:hover {
+  background-color: #98BF5A;
+  color: #3d4d24;
+}
+
+.notice--info {
+  background-color: transparent;
+  border: 1px solid #98BF5A;
+  font-size: 1em !important;
+}
+
+.btn--primary,
+.btn--primary:visited,
+.btn.btn--primary,
+.btn.btn--primary:visited {
+  background-color: #3d4d24;
+}
+
+.btn--primary:hover {
+  background-color: #98BF5A;
+}
+
+@media (min-width: 64em) {
+  html {
+    font-size: 20px;
+  }
+}
+
+h3 {
+  font-weight: normal;
+}
+
+a,
+a:visited {
+  color: #98BF5A;
+}
+
+a:hover {
+  color: #3d4d24;
+}
 </style>
