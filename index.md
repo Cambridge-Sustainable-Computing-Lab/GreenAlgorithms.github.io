@@ -33,10 +33,10 @@ The Green Algorithms Initiative aims to promote more environmentally sustainable
 This page is a resource hub bringing together tools, documentation, and other resources to help digital researchers estimate the carbon footprint of their projects.
 {: .text-center}
 
-# The different tools 
+## <i class="fa-solid fa-screwdriver-wrench"></i> The different tools 
 {% include feature_row id="feature_row_1" %}
 
-# E-SCOUT: do carbon calculators incentivise sustainable behaviours?
+## <i class="fa-solid fa-users-viewfinder"></i> E-SCOUT: do carbon calculators incentivise sustainable behaviours?
 
 Tools like the Green Algorithms online calculator have proven useful for researchers, research software engineers, and organisations to understand the environmental impacts of their work, but some important questions remain: To what extent does carbon tracking incentivise green computing practices? Or how can we make sure it does?
 
@@ -56,19 +56,19 @@ If you work for a research performing organisation (RPO) that uses HPC and would
   {{ notice-text | markdownify }}
 </div>
 
-# About
+## <i class="fa-solid fa-circle-info"></i> About
 The Green Algorithms Initiative is led by [Dr Loïc Lannelongue](https://cam-sustainablecomputing.org/members/Loic-Lannelongue.html) and the [Cambridge Sustainable Computing Lab](https://cam-sustainablecomputing.org/) from the University of Cambridge (UK). [Navirah Kamal](https://cam-sustainablecomputing.org/members/Navirah-Kamal.html) is the Research Software Engineer developing and maintaining these tools and [Dr Christina Bremer](https://cam-sustainablecomputing.org/members/Christina-Bremer.html) leads the E-SCOUT study.
 
 <a href="{{ '/assets/images/CSCL-logo_small.png' | relative_url }}">
   <img src="{{ '/assets/images/CSCL-logo_small.png' | relative_url }}" alt="CSCL logo" style="max-width: 350px; width: 100%; height: auto;">
 </a>
 
-## Other Contributors
+### Other Contributors
 - Past and current [members](https://cam-sustainablecomputing.org/team/) of the Cambridge Sustainable Computing Lab.
 - [Dr Jason Grealey](https://scholar.google.com/citations?user=DiAlGKAAAAAJ&hl=en) (then: Baker Heart and Diabetes Institute, Melbourne, Australia) helped to start this project and led the survey of the carbon footprint of bioinformatics.
 - Even Matencio ([GitHub](https://github.com/evenmatencio), [LinkedIn](https://www.linkedin.com/in/evenmatencio)) (then: French Department for the Environment, Paris, France) developed the v3.0 of the calculator and in particular the AI view.
 
-## Funding 
+### Funding 
 This work was supported by funding from the Wellcome Trust, NetDRIVE and NERC. It was also made possible through core funding from the British Heart Foundation, the NIHR Cambridge Biomedical Research Centre[*] and Health Data Research UK, which is funded by the UK Medical Research Council, Engineering and Physical Sciences Research Council, Economic and Social Research Council, Department of Health and Social Care (England), Chief Scientist Office of the Scottish Government Health and Social Care Directorates, Health and Social Care Research and Development Division (Welsh Government), Public Health Agency (Northern Ireland), and British Heart Foundation and Wellcome. *The views expressed are those of the author(s) and not necessarily those of the NIHR or the Department of Health and Social Care.
 
 <div class="logo-row-large">
@@ -123,7 +123,7 @@ This work was supported by funding from the Wellcome Trust, NetDRIVE and NERC. I
 }
 </style>
 
-## More Credits
+### More Credits
 Project-specific credits can be found on their respective GitHub repositories.
 
 This website is powered by [Jekyll](https://jekyllrb.com/) & [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/).
