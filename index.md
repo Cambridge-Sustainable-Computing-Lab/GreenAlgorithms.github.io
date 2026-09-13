@@ -4,6 +4,10 @@ author_profile: false
 
 title: "Home"
 
+#header:
+#  image: /assets/images/GA_primary_logo.png
+#  image_description: "Green Algorithms Initiative logo"
+
 feature_row_1:
 - image_path: /assets/images/GAapp_16x9.jpg
   alt: "Screenshot of the green algorithms calculator."
@@ -28,6 +32,8 @@ gallery_logos:
   - url: "https://www.hdruk.ac.uk"
     image_path: /assets/images/HDRuk_gallery.png
 ---
+
+<img src="{{ '/assets/images/GA_primary_logo.png' | relative_url }}" alt="Green Algorithms Initiative logo" style="display: block; margin: 1rem auto 0; max-width: 500px; width: 100%; height: auto;">
 
 The Green Algorithms Initiative aims to promote more environmentally sustainable computational science. <br>
 This page is a resource hub bringing together tools, documentation, and other resources to help digital researchers estimate the carbon footprint of their projects.
