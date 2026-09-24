@@ -46,11 +46,10 @@ This page is a resource hub bringing together tools, documentation, and other re
 
 Tools like the Green Algorithms online calculator have proven useful for researchers, research software engineers, and organisations to understand the environmental impacts of their work, but some important questions remain: To what extent does carbon tracking incentivise green computing practices? Or how can we make sure it does?
 
-__The Environmentally Sustainable Computing User Trial of the Green Algorithms Initiative (E-SCOUT) aims to empirically evaluate the effectiveness of carbon reporting tools in reducing the environmental impacts of scientific computing.__ As part of the study, the effectiveness of different types of feedback will be compared for different user groups, leveraging a new [open source dashboard](https://github.com/Cambridge-Sustainable-Computing-Lab/Green-Algorithms-HPCdashboard) for HPC.
-Reflecting its user-centred approach, E-SCOUT will use co-design throughout all stages to ensure that the feedback interventions are tailored to the users’ needs, goals and constraints. The Lab is also planning to set up a steering group that brings together people with diverse perspectives for reflection and decision-making.
+__The Environmentally Sustainable Computing User Trial of the Green Algorithms Initiative (E-SCOUT) aims to empirically evaluate the effectiveness of carbon reporting tools in reducing the environmental impacts of scientific computing.__ More specifically, it will use the newly developed Green Algorithms dashboard and evaluate its effects on participants’ behaviour, pro-environmental attitudes, and awareness of the environmental impacts of scientific computing. Designed as a mixed methods study, E-SCOUT's research protocol will be informed by the outcomes of a pilot phase and the input from an advisory group that brings together people with diverse perspectives for guidance and decision-making.
 
 {% capture notice-text %}
-If you work for a research performing organisation (RPO) that uses HPC and would be interested in getting involved, register your interest below. We also welcome interest from individuals for our steering group. 
+If you work for a research performing organisation (RPO) that uses HPC and would be interested in getting involved, it would be great to hear from you. Please register your interest below. 
 
 <p>
   <a href="https://cam-sustainablecomputing.org/projects/e-scout" class="btn btn--primary" style="color: #fff;">Learn more</a>
