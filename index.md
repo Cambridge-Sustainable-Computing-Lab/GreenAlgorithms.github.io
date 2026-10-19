@@ -61,7 +61,11 @@ If you work for a research performing organisation (RPO) that uses HPC and would
   {{ notice-text | markdownify }}
 </div>
 
-## How to cite this work and related publications 
+## <i class="fa-solid fa-handshake"></i> Improving the Green Algorithms calculator through co-design
+
+In December 2025, we ran two online co-design workshops with users of the Green Algorithms calculator as well as experts in design, human-computer interaction (HCI), and the environmental assessment of digital technologies and services. The aim was to improve the existing interface of the calculator and, more generally, create empirical guidance for the design of computing carbon calculators. We thank all participants who offered their time and expertise to help us achieve this aim. The resulting interface design and manuscript will be shared here and on the website of the [Cambridge Sustainable Computing Lab](https://cam-sustainablecomputing.org/), respectively, as soon as they become available.
+
+## How to cite this work and related publications
 
 If you are using one of these tools, please cite:
 
